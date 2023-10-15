@@ -1,0 +1,13 @@
+Python is relatively easier to use. It is general purpose program
+And also it is pretty high level.
+
+C vs Python:
+1. It is general purpose programming language.
+2. No pointers functionality
+3. Also has OOPs
+4. It does use more RAM than C.
+5. C is compiled and Python is interpreted
+6. Unlike C it has large number or Library of built-in functions
+7. Faster execution than C
+8. But slower in terms of optimisation as Python has Garbage collection
+9. 
